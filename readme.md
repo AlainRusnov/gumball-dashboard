@@ -8,4 +8,5 @@ https://alainrusnov.github.io/gumball-dashboard/
 
 vanilla JS, html, css ( because of course pure algos project... ).
 
-more to come..
+Link to Gumball Bank app - https://alainrusnov.github.io/GumBall-Bank/
+( working on implementing dashboard to single page app )
